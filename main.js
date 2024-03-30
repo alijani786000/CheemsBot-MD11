@@ -3,7 +3,7 @@
 //Instagram: unicorn_xeon13
 //Telegram: t.me/xeonbotinc
 //GitHub: @DGXeon
-//WhatsApp: +916909137213
+//WhatsApp: +923021614498
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@DGXeon
 
 require('./settings')
@@ -67,7 +67,7 @@ require('./main.js')
 nocache('../main.js', module => console.log(color('[ CHANGE ]', 'green'), color(`'${module}'`, 'green'), 'Updated'))
 
 //------------------------------------------------------
-let phoneNumber = "916909137213"
+let phoneNumber = "923021614498"
 let owner = JSON.parse(fs.readFileSync('./src/data/role/owner.json'))
 
 const pairingCode = !!phoneNumber || process.argv.includes("--pairing-code")
